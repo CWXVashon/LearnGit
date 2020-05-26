@@ -2,3 +2,4 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 I am Change.
 我来修改一下，测试Git是不是真的管理修改，而不是文件
+刚刚"add"了这个文件，现在再改一下直接commit
